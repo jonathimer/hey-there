@@ -37,7 +37,7 @@ function App() {
       image: "/character/three.png",
     },
     {
-      content: `You're beautiful, you're smart, you're fun,
+      content: `You're beautiful, you're very smart, you're fun,
 and you make spending time together feel too short.`,
       image: "/character/four.png",
     },
